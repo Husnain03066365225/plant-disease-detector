@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/ca1b3244-63f6-4c27-8599-530e9006e10f" />
 # 🌿 Plant Disease Detector
 
 An AI-powered Android application built with **Flutter, TensorFlow Lite, and MobileNetV2** to identify plant diseases from leaf images. Users can select an image from their gallery or capture one using their camera and receive a predicted disease class with a confidence score.
@@ -39,6 +40,9 @@ The model predicts a probability for each supported class. The application selec
 
 > The displayed confidence is the model's predicted probability, not a guarantee that the diagnosis is correct.
 
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-09 at 6 54 19 AM" src="https://github.com/user-attachments/assets/71e50319-f52a-40af-8457-682e5cab7b12" />
+<img width="1024" height="873" alt="late_blight_tomato_leaf3x1200-1024x873" src="https://github.com/user-attachments/assets/b5191f41-8b4d-4268-a550-34892cfe4371" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/760f2167-c343-47cb-9dde-7ad5b35c6110" />
 ## 🌿 Supported Classes
 
 ### Pepper
@@ -138,6 +142,7 @@ flutter devices
 ```bash
 flutter run
 ```
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/0e92971a-3774-4a28-9dd3-d68f63452122" />
 
 ## 🔬 How It Works
 
