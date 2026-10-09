@@ -190,7 +190,7 @@ Image classification is performed locally on the device using the bundled Tensor
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+
 
 * GitHub: https://github.com/Husnain03066365225
 
